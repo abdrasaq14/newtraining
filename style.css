@@ -1,0 +1,20 @@
+.new-dev{
+    height: 150px;
+    width: 150px;
+    background-color: black;
+    border: 10px 20px 30px solid red;
+    position: relative;
+}
+
+.inner-div{
+    right: -20px;
+    top: 20px;
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    position: absolute;
+    
+}
+.table2{
+
+}
